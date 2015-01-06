@@ -5,10 +5,10 @@
         versionCode = "1" 
         version     = "1.0.0" >
         
-        <name>Food</name>
+        <name>الجمعية الإسلامية</name>
         
         <description>
-           A restaurant menu application
+           
         </description>
         
         <author email="sara.talsayed@gmail.com" href="http://phonegap.com">
