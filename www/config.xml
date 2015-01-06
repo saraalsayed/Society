@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.es.dev"
+        versionCode = "11" 
+        version     = "1.0.0" >
+        
+        <name>Food</name>
+        
+        <description>
+           A restaurant menu application
+        </description>
+        
+        <author email="sara.talsayed@gmail.com" href="http://phonegap.com">
+            EsDev Team
+        </author>
+        
+        <content src="demo.html" />
+        
+        <access origin="*" />
+        
+        <preference name="SplashScreen" value="splash" />
+        <preference name="show-splash-screen-spinner" value="false" />
+    	<preference name="auto-hide-splash-screen" value="true" />
+    	<preference name="SplashScreenDelay" value="0" />
+        
+        <gap:plugin name="org.apache.cordova.device" />
+        <gap:plugin name="org.apache.cordova.splashscreen" />
+        
+        <icon src="icon2.png" />
+        
+
+        
+		
+    </widget>
