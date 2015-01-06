@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.es.dev"
-        versionCode = "11" 
+        id          = "com.es.dev.society"
+        versionCode = "1" 
         version     = "1.0.0" >
         
         <name>Food</name>
@@ -15,7 +15,7 @@
             EsDev Team
         </author>
         
-        <content src="demo.html" />
+        <content src="society.html" />
         
         <access origin="*" />
         
